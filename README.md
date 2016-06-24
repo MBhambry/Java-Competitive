@@ -17,3 +17,7 @@ Solution  - JavaEndofFile.java
 Problem # 4 Java Static Initializer Block
 Problem Statement - https://www.hackerrank.com/challenges/java-static-initializer-block <br />
 Solution - JavaStaticInitializerBlock.java
+
+Problem # 5 Java Integer to String
+Problem Statement - https://www.hackerrank.com/challenges/java-int-to-string <br />
+Solution - JavaStringtoInteger.java
