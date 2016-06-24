@@ -10,7 +10,7 @@ Problem # 2 Java Datatypes<br/>
 Problem Statement - https://www.hackerrank.com/challenges/java-datatypes/ <br />
 Solution - JavaDatatypes.java
 
-Problem # 3 Java End-of-File <br/>
+Problem # 3 Java End-of-File<br/>
 Problem Statement - https://www.hackerrank.com/challenges/java-end-of-file/ <br />
 Solution  - JavaEndofFile.java
 
