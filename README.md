@@ -10,6 +10,10 @@ Problem # 2 Java Datatypes
 Problem Statement - https://www.hackerrank.com/challenges/java-datatypes/ <br />
 Solution - JavaDatatypes.java
 
-Problem # 3 Jave End-of-File 
+Problem # 3 Java End-of-File 
 Problem Statement - https://www.hackerrank.com/challenges/java-end-of-file/ <br />
 Solution  - JavaEndofFile.java
+
+Problem # 4 Java Static Initializer Block
+Problem Statement - https://www.hackerrank.com/challenges/java-static-initializer-block <br />
+Solution - JavaStaticInitializerBlock.java
